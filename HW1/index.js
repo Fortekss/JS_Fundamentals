@@ -8,13 +8,16 @@ alert (first + ' and ' + second)
                                                                                 
 const object = {                                                  //task 4                                                                    
 avaible : "yes",
-capacity : "30",
-licenced : "true",
-age : "null",
-adress : "undefined",
+capacity : 30,
+licenced : true,
+age : null,
+adress : undefined,
 } 
-console.log(object)
-
+console.log(avaible) ;
+console.log(capacity) ;
+console.log(licenced) ;
+console.log(age) ;
+console.log(adress) ;
 
 let isAdult = confirm("To continue,your age must be more than 18") ;  //task 5
 console.log(isAdult);
