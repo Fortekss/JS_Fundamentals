@@ -86,7 +86,7 @@ else {
     console.log('triangle IS not restangular')
 }
 
-now= new Date();        
+now= new Date();                                             //task 7
 hours= now.getHours();
 console.log('now is '+hours )
 //1
