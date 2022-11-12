@@ -9,7 +9,7 @@
 // };
 // console.log(propsCount(mentor));
 
-// function MyObject(user,age,hobby,city,job) {
+// function MyObject(user,age,hobby,city,job) {                                   //task 2
 
 // this.user = user ,
 // this.age = age ,
